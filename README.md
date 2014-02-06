@@ -3,6 +3,8 @@
 TailInput exteded plugin for fluentd.
 It assumes that this plug-in is used with "fluent-plugin-fail-alternative". 
 
+[![Build Status](https://travis-ci.org/glidenote/fluent-plugin-tail-asis.png?branch=add_travis)](https://travis-ci.org/glidenote/fluent-plugin-tail-asis)
+
 ## Installation
 
 Add this line to your application's Gemfile:
