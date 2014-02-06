@@ -12,4 +12,4 @@ matrie:
     - rvm: 1.9.3
     - rvm: 2.0.0
 
-script: "RAILS_ENV=test bundle exec rake spec 2>&1"
+script: bundle exec rake test
